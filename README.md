@@ -14,6 +14,6 @@ A Machine Learning Approach for Engine Room Monitoring and Fault Prediction
 Dataset taken from: [NEU_Datasets](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
 
 # One-Pixel-Attack
-Apply Adversarial Attacks in Machine Learning to find the weekness of CNN after training
+Apply Adversarial Attacks in Machine Learning to find the weakness of CNN after training
 
 Dataset taken from: [NEU_Datasets](http://faculty.neu.edu.cn/yunhyan/NEU_surface_defect_database.html)
